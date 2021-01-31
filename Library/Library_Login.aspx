@@ -9,6 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <asp:TextBox ID="txtname" runat="server" ToolTip="Enter your name"></asp:TextBox>
+        <asp:TextBox ID="txtpassword" runat="server" ToolTip="Entere your password"></asp:TextBox>
     </form>
 </body>
 </html>
